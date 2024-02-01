@@ -1,0 +1,2 @@
+0.0.0.0 mail.google.com
+80.211.220.232 google.com
